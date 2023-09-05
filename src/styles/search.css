@@ -1,0 +1,89 @@
+.search__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  border-radius: 30px;
+  min-height: 639px;
+  background-image: url(../assets/img/man-sits-end-trolltunga-before-mountains\ 1.jpg);
+}
+.search__title {
+  max-width: 549px;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 52px;
+  color: #252525;
+  text-align: center;
+}
+.search__yellow-item {
+  margin-bottom: 8px;
+}
+.search__description {
+  margin-bottom: 48px;
+  color: #252525;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+}
+.search__input {
+  display: flex;
+  align-items: center;
+  column-gap: 28px;
+  max-height: 75px;
+  max-width: 779px;
+  border-radius: 50px;
+  padding: 10px 11px;
+}
+.search-input {
+  min-width: 775px;
+  margin-bottom: 126px;
+  background-color: white;
+}
+.search-input span {
+  width: 1px;
+  height: 36px;
+  background-color: #ebebeb;
+}
+.search-input__item {
+  display: flex;
+  align-items: center;
+  column-gap: 14px;
+}
+.search-input__icon {
+  padding: 10px;
+  border-radius: 50%;
+  border: 1px solid #dbdbdb;
+}
+.search__button {
+  padding: 18px 30px;
+}
+.search__button {
+  display: flex;
+  align-items: center;
+  column-gap: 9px;
+}
+.input-date {
+  flex: 1 1 auto;
+}
+.search-input__text {
+  color: #7b7b7b;
+  font-weight: 500;
+}
+.search-often {
+  display: flex;
+  align-items: center;
+  column-gap: 18px;
+  font-weight: 500;
+}
+.search-often__list {
+  display: flex;
+  column-gap: 15px;
+}
+.search-often__item {
+  padding: 7px 14.5px;
+  border-radius: 30px;
+  background: rgba(37, 37, 37, 0.15);
+  color: white;
+}

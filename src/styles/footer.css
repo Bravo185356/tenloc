@@ -1,0 +1,79 @@
+.footer {
+  margin-top: 74px;
+}
+.footer__container {
+  padding-top: 113px;
+}
+.footer__columns {
+  display: flex;
+  column-gap: 78px;
+  padding-bottom: 82px;
+  border-bottom: 1px solid #e2e2e2;
+}
+.footer-column__title {
+  color: #252525;
+  font-weight: 600;
+  line-height: 30px;
+  margin-bottom: 19px;
+}
+.footer-column__list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 14px;
+}
+.footer__logo {
+  margin-bottom: 45px;
+}
+.footer-column__link {
+  color: #252525;
+  font-size: 14px;
+}
+.footer-column__link img {
+  margin-right: 10px;
+}
+.download__buttons {
+  display: flex;
+  margin-top: 18px;
+  column-gap: 8.5px;
+}
+.bold {
+  font-weight: 700;
+}
+.footer-socials {
+  display: flex;
+  column-gap: 16.5px;
+  margin-top: 34px;
+}
+.footer-socials__button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 9px;
+  border-radius: 5px;
+  border: 1px solid #dfdfdf;
+  background: #fbfbfb;
+}
+.footer__bottom {
+  display: flex;
+  align-items: center;
+  padding: 19px 0px;
+  column-gap: 75px;
+}
+.footer__rights {
+  color: #252525;
+  font-size: 13px;
+  line-height: 35px;
+}
+.footer__payment-methods {
+  display: flex;
+  justify-content: end;
+  flex: 1 1 auto;
+}
+.footer__creator {
+  display: flex;
+  column-gap: 14px;
+  align-items: center;
+  color: #252525;
+  font-size: 13px;
+  line-height: 35px;
+}
